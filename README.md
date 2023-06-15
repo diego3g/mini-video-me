@@ -53,6 +53,8 @@ Then, generate your app with command bellow
 npm run build
 ```
 
+After that, the generated app will be inside the `packages` directory.
+
 ---
 ## Shortcuts
 
